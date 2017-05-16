@@ -1,0 +1,8 @@
+*.pyc
+*.sqlite3
+.idea
+settings_secret.py
+myenv
+.DS_Store
+__pycache__/
+media/
